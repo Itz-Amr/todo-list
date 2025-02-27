@@ -1,5 +1,5 @@
-import AllTasks from "./AllTasks";
-import TasksFilter from "./TasksFilter";
+import AllTasks from "./components/AllTasks";
+import TasksFilter from "./components/TasksFilter";
 
 export default function App() {
   return (
